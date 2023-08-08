@@ -10,9 +10,9 @@
 
 * apt-get install git
 
-* git clone https://github.com/UDMODZ/Cam-Hackers
+* git clone https://github.com/UDMODZ/CAM-HIJACK
 
-* cd Cam-Hackers
+* cd CAM-HIJACK
 
 * pip install -r requirements.txt
 
