@@ -6,7 +6,7 @@
 
 * apt-get install python
 
-*pkg install wget
+* pkg install wget
 
 * apt-get install git
 
@@ -16,7 +16,7 @@
 
 * pip install -r requirements.txt
 
-* python3 cam-hackers.py 
+* python3 UDCAM.py 
 
 SUBSCRIBE ON YT
 
